@@ -1,5 +1,5 @@
-First Name : Dwaine Roxette 
-Middle Name : Eway
-Last Name : Balite
-Age : 20
-Birthdate : November 07, 2004
+FirstName: Dwaine Roxette
+MiddleName: Eway
+LastName: Balite
+Age: 20
+Birthdate: November 07, 2004
