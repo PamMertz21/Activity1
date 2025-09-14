@@ -3,3 +3,9 @@ MiddleName: Eway
 LastName: Balite
 Age: 20
 Birthdate: November 07, 2004
+Birth of Place: Cabadbaran City
+Religion: Roman Catholic
+Father's Name: Francer Balite
+Occupation: Tricycle Driver
+Mother's Name: Jenifer Balite
+Occupation: House Wife
