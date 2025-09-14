@@ -40,3 +40,12 @@ git add --all
 git status
 git commit -m "Update Readme.txt and remove Test.py"
 git checkout master
+
+(master)
+git remote add origin https://github.com/PamMertz21/Activity1.git
+
+git push -u origin master
+git push -u origin Balite_B1
+git push -u origin Balite_B2
+git push -u origin Balite_B3
+git push -u origin Balite_B4
