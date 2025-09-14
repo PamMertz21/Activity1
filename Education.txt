@@ -2,3 +2,6 @@ Elementary School: Antonio C. Dagani Central Elementary School
 Year Graduated: 2017
 High School: Cabadbaran City National High School
 Year Graduated: 2023
+College: CSUCC
+Program: BSIT
+Year Level: 3rd year

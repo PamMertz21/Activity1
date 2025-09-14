@@ -7,3 +7,18 @@ touch Education.txt
 touch Background.txt
 touch Readme.txt
 touch Test.py
+(Branch 1)
+git status
+git add --all
+git status
+git commit -m "Add ammends in Profile.txt and update Readme.txt"
+git status
+git checkout Balite_B2
+(Branch 2)
+git checkout Balite_B1 -- Readme.txt
+git status
+git add --all
+git status
+git commit -m "Add ammends in Education.txt and update Readme.txt"
+git status
+git checkout Balite_B3
