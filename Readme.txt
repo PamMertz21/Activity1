@@ -32,3 +32,11 @@ git status
 git commit -m "Add ammends in Background.txt, update Readme.txt, remove Test.py"
 git status
 git checkout Balite_B4
+(Branch 4)
+git checkout Maraon_B3 -- Readme.txt
+git rm Test.py
+git status
+git add --all
+git status
+git commit -m "Update Readme.txt and remove Test.py"
+git checkout master
