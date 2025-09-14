@@ -7,10 +7,10 @@ touch Education.txt
 touch Background.txt
 touch Readme.txt
 touch Test.py
-
 (Branch 1)
 git status
 git add --all
-git commit -m "Add amends in Porfile.txt and update Readme.txt"
+git status
+git commit -m "Add ammends in Profile.txt and update Readme.txt"
 git status
 git checkout Balite_B2
